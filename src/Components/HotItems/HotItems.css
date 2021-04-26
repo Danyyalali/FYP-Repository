@@ -1,0 +1,23 @@
+.head{
+    text-align: center;
+    margin:2rem auto;
+    color:darkslategray;
+}
+.linkStyle{
+    text-decoration: none;
+    color:white;
+}
+.H_root{
+    padding-left: 1rem;
+    overflow-x: hidden;
+}
+.showBtn{
+    background-color:orangered !important;
+    width:100%;
+    margin:2rem !important;
+    border-radius: 50px !important;
+}
+.showBtn:hover{
+    background-color: rgb(233, 78, 17);
+    color:white;
+}

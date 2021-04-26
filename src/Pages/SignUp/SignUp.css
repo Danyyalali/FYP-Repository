@@ -1,0 +1,25 @@
+.paper{
+  margin-top:2rem !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+
+.form {
+  width: '100%'; 
+  margin-top: 3rem !important;
+  }
+.signUpLink{
+  text-decoration: none;
+  color:rgb(14, 85, 70);
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-align: center;
+}
+.ErrorStyle{
+  margin-top: 1rem;
+  list-style: none;
+  color:red;
+  font-style: italic;
+  font-size: 1rem;
+}

@@ -1,0 +1,23 @@
+
+.linkItem{
+    text-decoration: none;
+    color:white;
+}
+.card_align{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    font-size: 2rem;
+    color:orangered;
+    margin-right: 1rem;
+}
+.button{
+    background-color:orangered !important;
+    margin-bottom: 2rem;
+}
+.button:hover{
+    background-color: orangered;
+    color:white;
+}

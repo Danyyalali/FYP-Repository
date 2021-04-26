@@ -1,0 +1,23 @@
+.alignSpace{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0  5.5rem;
+}
+.UpperNavBg{
+    border-top: 3px solid transparent;
+    background-color:#9b8508c7 !important;
+    height:2.5rem;
+}
+.title{
+    color:white;
+}
+.log{
+    color:white !important;
+    
+}
+@media screen  and (max-width:970px){
+    .alignSpace{
+        margin:0 1.5rem;
+    }
+}
